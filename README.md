@@ -1,7 +1,7 @@
-# Hello — I’m Robert
+# **Hello — I’m Robert**
 
-** I’m focused on cybersecurity, responsible AI, and practical decision systems 
-   that make complex workflows more transparent, secure, measurable, and useful.** 
+ **I’m focused on cybersecurity, responsible AI, and practical decision systems 
+    that make complex workflows more transparent, secure, measurable, and useful.** 
 
 ## Current focus
 - AI routing and evaluation for customer-service workflows
@@ -43,7 +43,7 @@ I am committed to learning openly, testing assumptions, giving credit, and build
 -only what I can stand behind.
 ```
 
-*** One of the most useful lessons I have learned is that sustainable progress comes from
+***One of the most useful lessons I have learned is that sustainable progress comes from
 making assumptions visible, inviting constructive challenge, and treating setbacks as
 evidence for improvement rather than reasons for blame.*** 
 
